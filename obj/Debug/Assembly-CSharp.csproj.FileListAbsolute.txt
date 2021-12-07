@@ -1,0 +1,2 @@
+C:\Users\brian\Perforce\Brian_Christian\20213\18357\Brian_Christian\Tri Ball\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\brian\Perforce\Brian_Christian\20213\18357\Brian_Christian\Tri Ball\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
